@@ -42,7 +42,7 @@ print(t)
 
 #set
 
-s = {1,2,3,4,5}
+s = {1,2,3,4,5,5}
 print(type(s))
 print(s)
 s.add(15)
